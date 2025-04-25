@@ -5,15 +5,9 @@ This project was created for frontend practice and to improve layout and styling
 
 ---
 
-## 📸 Preview
-
-![Spotify Clone Screenshot](screenshot.png) <!-- optional, if you have a screenshot -->
-
----
-
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live site](https://your-username.github.io/spotify-clone-html-css/)
+🔗 [Click here to view the live site](https://shaikafrid1.github.io/Spotify-Clone-HTML-CSS-/)
 
 ---
 
